@@ -6,9 +6,13 @@
 
 爱好：🌼 种花
 
-这是我的个人博客 -> [Gaizhedu's Blog](https://gaizhedu.com)（建设中，上线时间未知）
+这是我的个人博客 -> [Gaizhedu's Blog](https://gaizhedu.com)
 
-正在进行项目：[markdown-learning-notes](https://github.com/Gaizhedu/markdown-learning-notes "我的Markdown学习笔记")
+正在进行的项目：
+
+[Gaizhedu's Blog](https://github.com/Gaizhedu/gaizhedu.github.io "我的个人博客")
+
+[Gaizhedu's Note](https://github.com/Gaizhedu/gaizhedu-learning-notes "我的学习笔记")
 
 ## 🔧 技能树  
 - ✍🏻 正在学习：  
